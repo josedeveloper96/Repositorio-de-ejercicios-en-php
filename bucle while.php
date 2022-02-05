@@ -13,6 +13,4 @@ while ($contador <= 20) {
 }
 
 echo "el resultado de multiplicar los primeros 20 numeros es: ".$numero;
-
-
  ?>
