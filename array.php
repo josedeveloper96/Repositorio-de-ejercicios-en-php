@@ -1,6 +1,4 @@
 <?php
-
-
 $meses = array ("Enero", 
 	"Febrero", 
 	"Marzo", 

@@ -1,4 +1,6 @@
 <?php
+
+
 $meses = array ("Enero", 
 	"Febrero", 
 	"Marzo", 
@@ -12,7 +14,9 @@ $meses = array ("Enero",
 	"Noviembre", 
 	"Diciembe");
 
-foreach ($meses as $mes) {
-	echo $mes."<br/>";
+for($i = 0; $i < count ($meses); $i++){
+	echo $meses[$i]."<br/>";
 }
+
  ?>
+
